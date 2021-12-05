@@ -1,6 +1,15 @@
 # Abdal Wizard Port Scanner
 
 
+[![Download Abdal Wizard Port Scanner](https://img.shields.io/sourceforge/dt/abdal-wizard-port-scanner.svg)](https://sourceforge.net/projects/abdal-wizard-port-scanner/files/latest/download)
+
+
+[![Download Abdal Wizard Port Scanner](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/abdal-wizard-port-scanner/files/latest/download)
+
+
+
+
+
 ## Screenshot
 
 ![](abdal-wizard-port-scanner.jpg)
