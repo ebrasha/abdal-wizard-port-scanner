@@ -1,0 +1,3 @@
+aud_find_port RCDATA "ui\\find.wav"
+Resource_error RCDATA "ui\\error.wav"
+Resource_stop RCDATA "ui\\iner.wav"

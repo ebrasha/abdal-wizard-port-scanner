@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021-12-02 23:51:28.000.717,=C:\Users\Windows\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-12-03 01:42:28.000.496,C:\Users\Windows\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Windows\Desktop\Posrt Scanner\Unit1.pas</Transaction>
+    <Transaction>2021-12-03 01:42:28.000.496,C:\Users\Windows\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Windows\Desktop\Posrt Scanner\Unit1.dfm</Transaction>
+    <Transaction>2021-12-03 01:42:31.000.369,C:\Users\Windows\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Windows\Desktop\Posrt Scanner\Project1.dproj</Transaction>
+    <Transaction>2021-12-04 13:33:36.000.444,=C:\Users\Windows\Desktop\Posrt Scanner\Unit2.pas</Transaction>
+    <Transaction>2021-12-04 14:11:48.000.642,C:\Users\Windows\Desktop\Posrt Scanner\Unit2.pas=</Transaction>
+    <Transaction>2021-12-04 15:24:30.000.440,=C:\Users\Windows\Desktop\Posrt Scanner\ui\find.wav</Transaction>
+    <Transaction>2021-12-04 16:53:30.000.821,=C:\Users\Windows\source\repos\enc\Abdal Antminer Scanner\Abdal Security Group App\bin\Release\error.wav</Transaction>
+    <Transaction>2021-12-04 19:12:03.000.251,=C:\Users\Windows\source\repos\enc\Abdal Antminer Scanner\Abdal Security Group App\bin\Release\iner.wav</Transaction>
+    <Transaction>2021-12-04 19:19:54.000.650,=C:\Users\Windows\Desktop\Posrt Scanner\Unit3.pas</Transaction>
+    <Transaction>2021-12-05 02:50:13.274,=C:\Users\Windows\source\repos\enc\Abdal Wizard Port Scanner\ui\error.wav</Transaction>
+    <Transaction>2021-12-05 02:50:13.299,=C:\Users\Windows\source\repos\enc\Abdal Wizard Port Scanner\ui\iner.wav</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
